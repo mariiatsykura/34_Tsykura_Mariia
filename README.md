@@ -20,7 +20,7 @@
 здоровому стані). Примітка: при підвищенні температури на 1 градус
 частота збільшується на 10 ударів за хвилину.***
 ### *Результат:*
-![result_02](https://github.com/mariiatsykura/34_Tsykura_Mariia/blob/main/Task02/result_task02.png)
+![result_02](https://github.com/mariiatsykura/34_Tsykura_Mariia/blob/main/Task02/result_task02.jpg)
 # Task03
 ### *Завдання:*
 ### *Результат:*
