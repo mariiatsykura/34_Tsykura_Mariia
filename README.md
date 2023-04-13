@@ -42,7 +42,7 @@
 4. *Розробити клас для тестування основної функціональності.*
 5. *Використати коментарі для автоматичної генерації документації засобами javadoc.*
 ### *Результат:*
-![result_04](https://github.com/mariiatsykura/34_Tsykura_Mariia/blob/main/Task04/result_task04.png)
+![result_04](https://github.com/mariiatsykura/34_Tsykura_Mariia/blob/main/Task04/result_04.png)
 # Task05
 ### *Завдання:*
 1. *Реалізувати можливість скасування (undo) операцій (команд).*
