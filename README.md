@@ -30,7 +30,7 @@
 4. *Реалізувати ці методи виведення результатів у текстовому вигляді.*
 5. *Розробити тареалізувати інтерфейс для "фабрикуючого" методу.*
 ### *Результат:*
-![result_03](https://github.com/mariiatsykura/34_Tsykura_Mariia/blob/main/Task03/resultt_task03.jpg)
+![result_03](https://github.com/mariiatsykura/34_Tsykura_Mariia/blob/main/Task03/result_03.jpeg)
 # Task04
 ### *Завдання:*
 1. *За основу використовувати вихідний текст проекту попередньої лабораторної роботи Використовуючи шаблон проектування Factory Method
