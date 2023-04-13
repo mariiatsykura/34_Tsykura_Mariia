@@ -21,6 +21,7 @@
 частота збільшується на 10 ударів за хвилину.*
 ### *Результат:*
 ![result_02](https://github.com/mariiatsykura/34_Tsykura_Mariia/blob/main/Task02/result_02.jpeg)
+![result_02.2](https://github.com/mariiatsykura/34_Tsykura_Mariia/blob/main/Task02/result_02.2.jpeg)
 # Task03
 ### *Завдання:*
 1. *Як основа використовувати вихідний текст проекту попередньої лабораторної роботи. Забезпечити розміщення результатів обчислень уколекції з можливістю збереження/відновлення.*
